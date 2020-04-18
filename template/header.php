@@ -35,11 +35,11 @@
 <header class="site-header" id="site-header">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-sm-3">
+            <div class="col-sm-2">
                 <img class="mini-paralet" src="images/paralet_mini.gif" alt="иконка паралета">
             </div>
-            <div class="col-sm-9">
-                <h1>Паралеты Paraplana.net</h1>
+            <div class="col-sm-10">
+                <h1 class="text-center">Паралеты и парапланы на Paraplana.net</h1>
             </div>
 
             <div class="col-sm-12">

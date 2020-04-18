@@ -6,6 +6,7 @@ require_once "template/header.php";
     <div class="main container mt-5">
         <div class="row">
             <main class="col">
+                <h2 class="text-center mb-5">Фото и видео полетов на паралетах</h2>
                 <h3 class="text-center mb-3">Видео</h3>
                 <div class="video row m-2">
 
@@ -16,7 +17,10 @@ require_once "template/header.php";
                         <iframe src="https://www.youtube.com/embed/KknxuoxOBCw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
-                <h3 class="text-center mt-5">Фото</h3>
+                <div class="text-center">
+                Больше видео на нашем YouTube канале <a href="https://www.youtube.com/user/MrSlavyan/videos" target="_blank" title="смотреть на YouTube">смотреть</a>
+                </div>
+                <h3 class="text-center mt-5">И немного фотографий</h3>
                 <div class="photo row">
 
                     <div class="col-sm-4">
