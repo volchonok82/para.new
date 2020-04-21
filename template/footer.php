@@ -10,11 +10,11 @@ $year = strftime('%Y');
                 <p>© MELEO Production 2007-<?= $year ?></p>
             </div>
             <div class="metrik col">
-                <!-- <a href="http://top.mail.ru/jump?from=1702789" target="_blank"> 
+                <a href="http://top.mail.ru/jump?from=1702789" target="_blank"> 
                     <img src="//top-fwz1.mail.ru/counter?id=1702789;t=131" alt="Рейтинг@Mail.ru">
-                </a> -->
+                </a>
                 <!-- Yandex.Metrika informer -->
-                <a href="https://metrika.yandex.ru/stat/?id=62073865&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/62073865/3_0_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a>
+                <!-- <a href="https://metrika.yandex.ru/stat/?id=62073865&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/62073865/3_0_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a> -->
                 <!-- /Yandex.Metrika informer -->
             </div>
             <div class="host col">
