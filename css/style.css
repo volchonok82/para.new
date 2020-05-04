@@ -66,6 +66,9 @@ a:hover{
     max-width: 48%;
     margin: 0.5%;
 }
+.paraplan .price{
+    font-size: 32px;
+}
 .parts img{
     max-width: 100%;
     max-height: 250px;
@@ -73,7 +76,7 @@ a:hover{
     margin-top: 5%;
 }
 
-.parts .price{
+.price{
     color: white;
     font-size: 24px;
     margin-top: auto;

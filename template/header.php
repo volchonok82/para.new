@@ -13,7 +13,7 @@
     <link rel="icon" href="images/propeller.png">
     <script src="https://kit.fontawesome.com/32bd5186c0.js" crossorigin="anonymous"></script>
     <!-- Yandex.Metrika counter -->
-    <script>
+    <!-- <script>
         (function(m, e, t, r, i, k, a) {
             m[i] = m[i] || function() {
                 (m[i].a = m[i].a || []).push(arguments)
@@ -31,13 +31,13 @@
     </script>
     <noscript>
         <div><img src="https://mc.yandex.ru/watch/62073865" style="position:absolute; left:-9999px;" alt="" /></div>
-    </noscript>
+    </noscript> -->
     <!-- /Yandex.Metrika counter -->
 </head>
 
 <body>
     <!-- Rating Mail.ru counter -->
-    <script>
+    <!-- <script>
     var _tmr = window._tmr || (window._tmr = []);
     _tmr.push({id: "1702789", type: "pageView", start: (new Date()).getTime()});
     (function (d, w, id) {
@@ -49,7 +49,7 @@
     })(document, window, "topmailru-code");
     </script><noscript><div>
         <img src="https://top-fwz1.mail.ru/counter?id=1702789;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
-    </div></noscript>
+    </div></noscript> -->
     <!-- //Rating Mail.ru counter -->
   
     <header class="site-header" id="site-header">

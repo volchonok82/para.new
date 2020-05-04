@@ -6,6 +6,9 @@ require_once "template/header.php";
         <div class="row">
             <main class="col paraplan mb-5">
                 <div class="row">
+                    <div class="col-sm-12 mb-3">
+                        <h3>Цены на тандемные моторные крылья <span class="price">от 135 000 р.</span></h3>
+                    </div>
                     <div class="trike-two col-sm-12">
                         <h2> Новый моторный тандемный параплан TRIKE-2 площадью 39 и 42 кв.м.</h2>
                         <p>Высокая скорость, теперь легие клеванты, уверенный полёт в турбулентность, повышеный запас прочности, вилка 150-320 кг</p>

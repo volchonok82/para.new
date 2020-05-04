@@ -15,7 +15,7 @@ require_once "template/header.php";
                     <img src="images/single_paralet_mini.jpg" class="card-img-top mt-3" alt="одноместный паралет">
                     <div class="card-body">
                         <h3 class="card-title">Одноместные паралёты</h3>
-                        <p class="card-text"><br><br></p>
+                        <p class="price">Цена: от 165 000 р.</p>
                         <a href="single-track.php" class="btn btn-primary">Смотреть</a>
                     </div>
                 </div>
@@ -23,7 +23,7 @@ require_once "template/header.php";
                     <img src="images/double_paralet_mini.jpg" class="card-img-top mt-3" alt="двухместный паралет">
                     <div class="card-body">
                         <h3 class="card-title">Двухместные паралёты</h3>
-                        <p class="card-text"><br><br></p>
+                        <p class="price">Цена: от 365 000 р.</p>
                         <a href="double-track.php" class="btn btn-primary">Смотреть</a>
                     </div>
                 </div>
