@@ -49,8 +49,7 @@ require_once "template/header.php";
                         </div>
                         <div class="col aerolodka-sborka">
                             <a href="https://www.youtube.com/watch?v=2yiUC0iog6g" target="_blank"
-                               title="посмотреть видео сборки КИТ набора"><img src="images/aerolodka-sborka_mini.jpg"
-                                                                               alt="сборка кит набора"></a>
+                               title="посмотреть видео сборки КИТ набора"><img src="images/aerolodka-sborka_mini.jpg"     alt="сборка кит набора"></a>
                         </div>
                         <div class="col aerolodka-snow">
                             <a href="https://www.youtube.com/watch?v=HSdAAkXlEwM" target="_blank"

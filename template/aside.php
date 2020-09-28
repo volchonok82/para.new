@@ -1,4 +1,4 @@
-<aside class=" col-md-2 " >
+<aside class=" col-lg-2 " >
     <div class="pogoda mt-2">
         <a href="https://beta.windguru.cz/38935" target="_blank">
             <img src="images/pogoda.jpg" alt="ссылка на погоду">

@@ -68,6 +68,21 @@ require_once "template/header.php";
                             <img src="images/patriot02_mini.jpg" class="img-fluid rounded m-2" alt="паралет селфи">
                         </a>
                     </div>
+                    <div class="col-sm-4">
+                        <a href="images/img_8464.jpg" target="_blank" title="посмотреть увеличенную фотографию">
+                            <img src="images/img_8464_mini.jpg" class="img-fluid rounded m-2" alt="двухместный паралет синие сидушки желтые лопасти на фоне инструментов">
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="images/img_8518.jpg" target="_blank" title="посмотреть увеличенную фотографию">
+                            <img src="images/img_8518_mini.jpg" class="img-fluid rounded m-2" alt="двухместный паралет синие сидушки желтые лопасти">
+                        </a>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="images/img_8541.jpg" target="_blank" title="посмотреть увеличенную фотографию">
+                            <img src="images/img_8541_mini.jpg" class="img-fluid rounded m-2" alt="двухместный паралет синие сидушки желтые лопасти на зеленом поле">
+                        </a>
+                    </div>
                 </div>
             </main>
 

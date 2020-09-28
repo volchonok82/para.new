@@ -53,6 +53,23 @@ require_once "template/header.php"
                             <a href="images/patriot06.jpg" target="_blank" title="посмотреть увеличенную фотографию">
                                 <img src="images/patriot06.jpg" alt="паралет патриот в разобраном виде" class="rounded m-2">
                             </a>
+
+                            <a href="images/img_8464.jpg" target="_blank" title="посмотреть увеличенную фотографию">
+                                <img src="images/img_8464_mini.jpg" alt="паралет патриот в мастерской" class="rounded m-2">
+                            </a>
+                            <a href="images/img_8516.jpg" target="_blank" title="посмотреть увеличенную фотографию">
+                                <img src="images/img_8516_mini.jpg" alt="паралет патриот вид спереди синие сидушки литые диски" class="rounded m-2">
+                            </a>
+                            <a href="images/img_8541.jpg" target="_blank" title="посмотреть увеличенную фотографию">
+                                <img src="images/img_8541_mini.jpg" alt="паралет патриот в поле на траве" class="rounded m-2">
+                            </a>
+                            <a href="images/img_8518.jpg" target="_blank" title="посмотреть увеличенную фотографию">
+                                <img src="images/img_8518_mini.jpg" alt="паралет патриот вид сбоку синие сидушки " class="rounded m-2">
+                            </a>
+                            <a href="images/img_8466.jpg" target="_blank" title="посмотреть увеличенную фотографию">
+                                <img src="images/img_8466_mini.jpg" alt="колесо  крупным планом" class="rounded m-2">
+                            </a>
+
                         </div>
                     </div>
                 </div>

@@ -14,7 +14,8 @@ require_once "template/header.php";
             <h3 class="mt-4">Телефон для связи:</h3>
             <p><a href="tel:+79264094233">+7 926 409 42 33</a> Вячеслав</p>
 
-            <a href="https://www.youtube.com/user/MrSlavyan"> <img  class="col-sm-6 mt-5 mb-5" src="images/youtube.jpg" alt="youtube_logo"></a>
+            
+            <a class="youtube" href="https://www.youtube.com/user/MrSlavyan" target="_blank"> <img  class=" text-center col-sm-6 mt-5 mb-5" src="images/youtube.jpg" alt="youtube_logo"></a>
         </main>
 
         <?php
